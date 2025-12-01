@@ -1,0 +1,5 @@
+runpod
+yt-dlp
+numpy
+librosa
+soundfile
